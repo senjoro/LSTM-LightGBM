@@ -1,4 +1,4 @@
-<img width="1650" height="1050" alt="image" src="https://github.com/user-attachments/assets/6429d7c2-a8a7-4c5c-a867-8e139e7e9645" /># LSTM-LightGBM
+# LSTM-LightGBM
 环境流行病学级联预测系统｜BiLSTM‑LightGBM 环境健康时序预警
 
 
