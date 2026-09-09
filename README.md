@@ -1,7 +1,3 @@
-# LSTM-LightGBM
-环境流行病学级联预测系统｜BiLSTM‑LightGBM 环境健康时序预警
-
-
 Repository Structure
 ├── env_health_warning.R   # Core modeling script
 ├── data1030.txt           # Raw tab‑separated input dataset (user‑provided)
