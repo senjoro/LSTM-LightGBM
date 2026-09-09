@@ -1,21 +1,15 @@
-# LSTM-LightGBM
+<img width="1650" height="1050" alt="image" src="https://github.com/user-attachments/assets/6429d7c2-a8a7-4c5c-a867-8e139e7e9645" /># LSTM-LightGBM
 环境流行病学级联预测系统｜BiLSTM‑LightGBM 环境健康时序预警
+
 
 Repository Structure
 ├── env_health_warning.R   # Core modeling script
-
 ├── data1030.txt           # Raw tab‑separated input dataset (user‑provided)
-
 ├── output/                # Auto‑generated outputs
-
 │   ├── *.png              # Performance figures
-
 │   ├── *.csv              # prediction & evaluation table
-
 │   ├── *.h5 / *.txt       # saved model weights
-
 │   └── result.RData       # full workspace object for reproduction
-
 └── README.md
 
 ## Pipeline Workflow
